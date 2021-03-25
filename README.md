@@ -10,10 +10,11 @@ Just plug-in your Mic and Speaker into your Raspberry Pi and go!
 ## Installation
 
 To install HiveOnAPi, 
-1. Clone the project onto your computer
-2. Unzip the files
-3. Copy the files onto your Micro SD Card
-4. Plug in your Pi, Microphone, Speaker
+1. CLick the link below to download the files:
+https://bit.ly/hiveonapi
+3. Unzip the files
+4. Copy the files onto your Micro SD Card
+5. Plug in your Pi, Microphone, Speaker
 
 
 ## Configure and Usage
@@ -28,3 +29,6 @@ To access SSH, make sure your Pi and computer are on the same network. Then type
 ssh pi@hive.local
 
 If prompted for password use the login above. 
+H.I.V.E Will restart every hour.
+
+# THERE IS NO NEED TO CLONE THIS REPOSITORY :)
