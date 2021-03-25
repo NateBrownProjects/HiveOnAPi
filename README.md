@@ -6,6 +6,8 @@
 HiveOnAPi should work with Raspberry Pi 3B and later. 
 Just plug-in your Mic and Speaker into your Raspberry Pi and go!
 
+## VIEW ON GITHUB:
+https://github.com/NateBrownProjects/HiveOnAPi
 
 ## Installation
 
